@@ -1,5 +1,3 @@
-# Trabalho Avaliativo – Backend com PHP, Docker, Laravel e MySQL
-
 ## Objetivo do Projeto
 
 Este projeto foi desenvolvido como parte de um trabalho avaliativo para criar um ambiente completo de desenvolvimento utilizando Docker, rodando uma aplicação Laravel conectada a um banco de dados MySQL. O foco está no desenvolvimento backend, organização do projeto e implementação de um CRUD básico para a entidade `Categoria`.
